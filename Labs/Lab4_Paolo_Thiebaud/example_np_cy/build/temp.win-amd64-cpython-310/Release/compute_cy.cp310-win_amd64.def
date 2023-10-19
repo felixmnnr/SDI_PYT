@@ -1,3 +1,0 @@
-LIBRARY compute_cy.cp310-win_amd64.pyd
-EXPORTS
-PyInit_compute_cy
